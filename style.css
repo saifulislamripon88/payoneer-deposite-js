@@ -1,0 +1,56 @@
+body{
+    padding:50px 0;
+}
+
+.submit-area{
+    
+    padding: 50px;
+    border-radius:10px;
+   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+   width: 50%;
+   margin: auto;
+   margin-top:20px;
+}
+
+#transection-area{
+    display:none;
+    color: #c44569;
+}
+.deposit{
+    background-color: #2ecc71;
+
+}
+
+.withdraw{
+    background-color: #3498db;
+    
+}
+
+.balance{
+    background-color: #f1c40f;
+    
+}
+
+.status{
+    /* margin:0px 20px; */
+    color:white;
+    padding:25px;
+    border-radius: 10px;
+}
+
+.next-area{
+    padding: 50px;
+    margin: auto;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    margin-top:30px;
+    border-radius:10px;
+}
+
+.para{
+    color:black;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+    text-shadow: 2px 2px 14px #000000;
+
+}
